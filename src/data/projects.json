@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Importance of Accessibility",
+    "imageSrc": "projects/Accessability.png",
+    "description": "This project was create to show the importance of accessibility for Websites by using ARIA to improve navigation through screen readers and keyboard navigation",
+    "skills": ["HTML5", "CSS", "Bootstrap", "ARIA"],
+    "demo": "https://frabjous-malasada-49d1c0.netlify.app/",
+    "source": "https://github.com/Conner-Houser/WEB-2700-Final.git"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Houser's Workshop",
+    "imageSrc": "projects/Houser'sWorkshop.png",
+    "description": "Houser's Workshop is a company that helps create website and improve marketing strategies for smaller buisnesses.",
+    "skills": ["HTML5", "CSS", "SCSS", "Bootstrap"],
+    "demo": "https://stirring-pastelito-ff1457.netlify.app/",
+    "source": "https://github.com/WSU-SoC-WEB2890-CU/web2890-review-assignment-Conner-Houser.git"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "title": "CarDeal",
+    "imageSrc": "projects/CarDeal.png",
+    "description": "CarDeal allows users to easily sell their car with little to no effort",
+    "skills": ["HTML5", "CSS", "Node"],
+    "demo": "https://incredible-macaron-0c8808.netlify.app/",
     "source": "https://www.github.com"
   }
 ]

@@ -17,6 +17,7 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+  padding-bottom: 2rem;
 }
 
 .content {
@@ -34,6 +35,8 @@
   display: flex;
   flex-direction: column;
   gap: 50px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .aboutItem {
@@ -50,7 +53,7 @@
   );
   background-size: 0 100%;
   background-repeat: no-repeat;
-  transition: 0.4s;
+  transition: 0.5s;
 }
 
 .aboutItem:hover {

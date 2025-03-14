@@ -2,9 +2,11 @@
   /* Colours */
   --color-text: #fff;
   --color-primary: #576cbc;
+  /* --color-primary: #66734D; */
   --color-secondary: #19376d;
   --color-dark: #0b2447;
   --color-bg: #04152d;
+  /* --color-bg: #202617; */
 
   /* Fonts */
   --font-roboto: "Roboto";
