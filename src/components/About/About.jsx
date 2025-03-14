@@ -14,7 +14,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I build responsive, user-friendly web applications using modern frameworks and technologies with a strong focus on performance and accessiblity.
+                Create and build responsive, user-friendly web applications using modern frameworks and technologies with a strong focus on performance and accessiblity.
               </p>
             </div>
           </li>
@@ -23,7 +23,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>UX/UI Designer</h3>
               <p>
-                I design intuitive, aesthetically pleasing interfaces that enhance user experiences by improving usability and accessiblity.
+                Design intuitive, aesthetically pleasing interfaces that enhance user experiences by improving usability and accessiblity.
               </p>
             </div>
           </li>
@@ -32,7 +32,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>UX Researcher</h3>
               <p>
-                I use research-driven insights to improve user experiences and create informed design decisions.
+                utilize research-driven insights to improve user experiences and create informed design decisions.
               </p>
             </div>
           </li>
