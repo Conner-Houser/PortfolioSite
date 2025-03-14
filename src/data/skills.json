@@ -23,6 +23,10 @@
     "title": "React",
     "imageSrc": "skills/react.png"
   },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/JS.png"
+  },
   
   {
     "title": "MongoDB",
@@ -31,6 +35,10 @@
   {
     "title": "Ruby on Rails",
     "imageSrc": "skills/ROR.png"
+  },
+  {
+    "title": "Ruby on Rails",
+    "imageSrc": "skills/MySQL.png"
   }
   
 ]

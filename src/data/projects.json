@@ -19,7 +19,7 @@
     "title": "CarDeal",
     "imageSrc": "projects/CarDeal.png",
     "description": "CarDeal allows users to easily sell their car with little to no effort",
-    "skills": ["HTML5", "CSS", "Node"],
+    "skills": ["HTML5", "CSS", "Bootstrap"],
     "demo": "https://incredible-macaron-0c8808.netlify.app/",
     "source": "https://www.github.com"
   }
