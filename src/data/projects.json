@@ -2,7 +2,7 @@
   {
     "title": "Importance of Accessibility",
     "imageSrc": "projects/Accessability.png",
-    "description": "This project was create to show the importance of accessibility for Websites by using ARIA to improve navigation through screen readers and keyboard navigation",
+    "description": "A project designed to highlight the importance of web accessibility. It uses ARIA roles and attributes to improve screen reader support and ensures full keyboard navigation for a better user experience across all abilities.",
     "skills": ["HTML5", "CSS", "Bootstrap", "ARIA"],
     "demo": "https://frabjous-malasada-49d1c0.netlify.app/",
     "source": "https://github.com/Conner-Houser/WEB-2700-Final.git"
@@ -10,7 +10,7 @@
   {
     "title": "Houser's Workshop",
     "imageSrc": "projects/Houser'sWorkshop.png",
-    "description": "Houser's Workshop is a company that helps create website and improve marketing strategies for smaller buisnesses.",
+    "description": "A small creative studio helping local businesses build websites and improve their marketing strategies. I work directly with clients to design custom, responsive sites and offer support with branding.",
     "skills": ["HTML5", "CSS", "SCSS", "Bootstrap"],
     "demo": "https://stirring-pastelito-ff1457.netlify.app/",
     "source": "https://github.com/WSU-SoC-WEB2890-CU/web2890-review-assignment-Conner-Houser.git"
@@ -18,7 +18,7 @@
   {
     "title": "CarDeal",
     "imageSrc": "projects/CarDeal.png",
-    "description": "CarDeal allows users to easily sell their car with little to no effort",
+    "description": "A web app that makes it easy for users to list and sell their cars with minimal effort. CarDeal streamlines the process by offering a clean interface, guided listing steps, and tools to attract potential buyers quickly.",
     "skills": ["HTML5", "CSS", "Bootstrap"],
     "demo": "https://incredible-macaron-0c8808.netlify.app/",
     "source": "https://www.github.com"
