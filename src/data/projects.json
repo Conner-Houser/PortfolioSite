@@ -16,11 +16,19 @@
     "source": "https://github.com/WSU-SoC-WEB2890-CU/web2890-review-assignment-Conner-Houser.git"
   },
   {
-    "title": "CarDeal",
-    "imageSrc": "projects/CarDeal.png",
-    "description": "A web app that makes it easy for users to list and sell their cars with minimal effort. CarDeal streamlines the process by offering a clean interface, guided listing steps, and tools to attract potential buyers quickly.",
-    "skills": ["HTML5", "CSS", "Bootstrap"],
-    "demo": "https://incredible-macaron-0c8808.netlify.app/",
-    "source": "https://www.github.com"
+    "title": "TheSonoraGrill",
+    "imageSrc": "projects/TheSonoraGrill.png",
+    "description": "A website redesign for TheSonoraGrill a local mexican resturant in ogden. Collaborated closely with the restaurant owner and manager to resdesign the ewbsite for beter aligmnet with the restaurant's brand identity and overall aesthetic.",
+    "skills": ["Square online"],
+    "demo": "https://www.thesonoragrill.com/",
+    "source": "https://www.thesonoragrill.com/"
+  },
+  {
+    "title": "BookHive",
+    "imageSrc": "projects/BookHive.png",
+    "description": "A collaborative library app that helps users track reading, discover new books, and enage with others thorugh discussion posts. It also allows users to create personal shelves to enhance organization and book management.",
+    "skills": ["Figma"],
+    "demo": "https://www.figma.com/proto/bocuOt87fCEsaNu126gJEu/High-Fidelity-Prototype--Apple-?node-id=0-1&t=SCDqsidEMfJLjkrT-1" 
   }
+
 ]
