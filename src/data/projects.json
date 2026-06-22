@@ -8,11 +8,11 @@
     "source": "https://github.com/Conner-Houser/WEB-2700-Final.git"
   },
   {
-    "title": "Houser's Workshop",
-    "imageSrc": "projects/Houser'sWorkshop.png",
-    "description": "A small creative studio helping local businesses build websites and improve their marketing strategies. I work directly with clients to design custom, responsive sites and offer support with branding.",
-    "skills": ["HTML5", "CSS", "SCSS", "Bootstrap"],
-    "demo": "https://stirring-pastelito-ff1457.netlify.app/",
+    "title": "Training Den",
+    "imageSrc": "projects/TrainingDen.png",
+    "description": "Training Den is a training management platform that helps organizations assign, track, and manage employee training programs. The application provides administrators with tools to monitor progress, view completions, and oversee training activity through a centralized dashboard.",
+    "skills": ["Figma"],
+    "demo": "https://www.figma.com/design/w86KO40zGMiQcUzEjFMOdx/Front-End-WireFrame--Copy-?m=auto&t=mZYuQhobMNmEXQzs-1",
     "source": "https://github.com/WSU-SoC-WEB2890-CU/web2890-review-assignment-Conner-Houser.git"
   },
   {
